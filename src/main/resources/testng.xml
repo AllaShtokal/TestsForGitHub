@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Github Tests Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="TestNG Github Tests - 1">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 2">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 3">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 4">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 5">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 6">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 7">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 8">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 9">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	<test name="TestNG Github Tests - 10">
+		<classes>
+			<class name="com.crm.qa.testcases.DownloadTest"/>
+			<class name="com.crm.qa.testcases.FilterTest"/>
+			<class name="com.crm.qa.testcases.LoadDataTest"/>
+			<class name="com.crm.qa.testcases.MouseHoverTest"/>
+			<class name="com.crm.qa.testcases.SearchTest"/>
+			<class name="com.crm.qa.testcases.SignInTest"/>
+			<class name="com.crm.qa.testcases.SortTest"/>
+
+		</classes>
+	</test>
+	
+
+
+</suite>
